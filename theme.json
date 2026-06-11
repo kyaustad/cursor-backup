@@ -1,0 +1,19 @@
+{
+  "activeColorTheme": {
+    "label": "Cotion Theme",
+    "settingsId": "Cotion Theme",
+    "extensionId": "cotion-theme-v2.cotion-theme"
+  },
+  "activeIconTheme": {
+    "label": "Eyecons",
+    "settingsId": "eyecons",
+    "extensionId": "azat-io.eyecons"
+  },
+  "settings": {
+    "workbench.colorTheme": null,
+    "workbench.iconTheme": "eyecons",
+    "workbench.preferredDarkColorTheme": "Cotion Theme",
+    "workbench.preferredLightColorTheme": null,
+    "window.autoDetectColorScheme": true
+  }
+}

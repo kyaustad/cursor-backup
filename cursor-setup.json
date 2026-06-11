@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-06-11T01:26:21.103218+00:00",
+  "extensions": {
+    "installed": [
+      {
+        "id": "anysphere.remote-ssh",
+        "version": "1.1.2"
+      },
+      {
+        "id": "ms-python.python",
+        "version": "2025.6.1"
+      },
+      {
+        "id": "anysphere.cursorpyright",
+        "version": "1.0.12"
+      },
+      {
+        "id": "ms-python.debugpy",
+        "version": "2026.6.0"
+      },
+      {
+        "id": "ms-python.vscode-python-envs",
+        "version": "1.10.0"
+      },
+      {
+        "id": "golang.go",
+        "version": "0.52.2"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "version": "12.4.0"
+      },
+      {
+        "id": "redhat.vscode-yaml",
+        "version": "1.23.0"
+      },
+      {
+        "id": "ms-azuretools.vscode-docker",
+        "version": "2.0.0"
+      },
+      {
+        "id": "ms-azuretools.vscode-containers",
+        "version": "2.4.5"
+      },
+      {
+        "id": "rust-lang.rust-analyzer",
+        "version": "0.3.2929"
+      },
+      {
+        "id": "github.vscode-github-actions",
+        "version": "0.31.5"
+      },
+      {
+        "id": "vue.volar",
+        "version": "3.3.4"
+      },
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "version": "3.0.24"
+      },
+      {
+        "id": "bradlc.vscode-tailwindcss",
+        "version": "0.14.28"
+      },
+      {
+        "id": "anseki.vscode-color",
+        "version": "0.4.5"
+      },
+      {
+        "id": "avaray.vscode-oklch-color-picker",
+        "version": "1.0.0"
+      },
+      {
+        "id": "ms-vscode.cpptools-themes",
+        "version": "2.0.0"
+      },
+      {
+        "id": "llvm-vs-code-extensions.vscode-clangd",
+        "version": "0.6.0"
+      },
+      {
+        "id": "ms-dotnettools.vscode-dotnet-runtime",
+        "version": "3.0.2"
+      },
+      {
+        "id": "ms-vscode.cmake-tools",
+        "version": "1.23.52"
+      },
+      {
+        "id": "ms-vscode.makefile-tools",
+        "version": "0.12.17"
+      },
+      {
+        "id": "anysphere.cpptools",
+        "version": "2.0.2"
+      },
+      {
+        "id": "anysphere.csharp",
+        "version": "1.0.1"
+      },
+      {
+        "id": "vadimcn.vscode-lldb",
+        "version": "1.12.2"
+      },
+      {
+        "id": "vscode-icons-team.vscode-icons",
+        "version": "12.18.0"
+      },
+      {
+        "id": "yusifaliyevpro.vscicons",
+        "version": "1.1.9"
+      },
+      {
+        "id": "cotion-theme-v2.cotion-theme",
+        "version": "0.0.2"
+      },
+      {
+        "id": "laurenttreguier.vscode-simple-icons",
+        "version": "1.16.0"
+      },
+      {
+        "id": "castrogusttavo.symbols",
+        "version": "0.0.18"
+      },
+      {
+        "id": "ardonplay.vscode-jetbrains-icon-theme",
+        "version": "0.0.4"
+      },
+      {
+        "id": "azat-io.eyecons",
+        "version": "1.16.0"
+      }
+    ],
+    "enabled": [
+      {
+        "id": "anysphere.remote-ssh",
+        "version": "1.1.2"
+      },
+      {
+        "id": "ms-python.python",
+        "version": "2025.6.1"
+      },
+      {
+        "id": "anysphere.cursorpyright",
+        "version": "1.0.12"
+      },
+      {
+        "id": "ms-python.debugpy",
+        "version": "2026.6.0"
+      },
+      {
+        "id": "ms-python.vscode-python-envs",
+        "version": "1.10.0"
+      },
+      {
+        "id": "golang.go",
+        "version": "0.52.2"
+      },
+      {
+        "id": "esbenp.prettier-vscode",
+        "version": "12.4.0"
+      },
+      {
+        "id": "redhat.vscode-yaml",
+        "version": "1.23.0"
+      },
+      {
+        "id": "ms-azuretools.vscode-docker",
+        "version": "2.0.0"
+      },
+      {
+        "id": "ms-azuretools.vscode-containers",
+        "version": "2.4.5"
+      },
+      {
+        "id": "rust-lang.rust-analyzer",
+        "version": "0.3.2929"
+      },
+      {
+        "id": "github.vscode-github-actions",
+        "version": "0.31.5"
+      },
+      {
+        "id": "vue.volar",
+        "version": "3.3.4"
+      },
+      {
+        "id": "dbaeumer.vscode-eslint",
+        "version": "3.0.24"
+      },
+      {
+        "id": "bradlc.vscode-tailwindcss",
+        "version": "0.14.28"
+      },
+      {
+        "id": "anseki.vscode-color",
+        "version": "0.4.5"
+      },
+      {
+        "id": "avaray.vscode-oklch-color-picker",
+        "version": "1.0.0"
+      },
+      {
+        "id": "ms-vscode.cpptools-themes",
+        "version": "2.0.0"
+      },
+      {
+        "id": "llvm-vs-code-extensions.vscode-clangd",
+        "version": "0.6.0"
+      },
+      {
+        "id": "ms-dotnettools.vscode-dotnet-runtime",
+        "version": "3.0.2"
+      },
+      {
+        "id": "ms-vscode.cmake-tools",
+        "version": "1.23.52"
+      },
+      {
+        "id": "ms-vscode.makefile-tools",
+        "version": "0.12.17"
+      },
+      {
+        "id": "anysphere.cpptools",
+        "version": "2.0.2"
+      },
+      {
+        "id": "anysphere.csharp",
+        "version": "1.0.1"
+      },
+      {
+        "id": "vadimcn.vscode-lldb",
+        "version": "1.12.2"
+      },
+      {
+        "id": "vscode-icons-team.vscode-icons",
+        "version": "12.18.0"
+      },
+      {
+        "id": "yusifaliyevpro.vscicons",
+        "version": "1.1.9"
+      },
+      {
+        "id": "cotion-theme-v2.cotion-theme",
+        "version": "0.0.2"
+      },
+      {
+        "id": "laurenttreguier.vscode-simple-icons",
+        "version": "1.16.0"
+      },
+      {
+        "id": "castrogusttavo.symbols",
+        "version": "0.0.18"
+      },
+      {
+        "id": "ardonplay.vscode-jetbrains-icon-theme",
+        "version": "0.0.4"
+      },
+      {
+        "id": "azat-io.eyecons",
+        "version": "1.16.0"
+      }
+    ],
+    "disabled": []
+  },
+  "theme": {
+    "activeColorTheme": {
+      "label": "Cotion Theme",
+      "settingsId": "Cotion Theme",
+      "extensionId": "cotion-theme-v2.cotion-theme"
+    },
+    "activeIconTheme": {
+      "label": "Eyecons",
+      "settingsId": "eyecons",
+      "extensionId": "azat-io.eyecons"
+    },
+    "settings": {
+      "workbench.colorTheme": null,
+      "workbench.iconTheme": "eyecons",
+      "workbench.preferredDarkColorTheme": "Cotion Theme",
+      "workbench.preferredLightColorTheme": null,
+      "window.autoDetectColorScheme": true
+    }
+  }
+}
