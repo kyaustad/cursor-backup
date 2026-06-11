@@ -30,3 +30,4 @@ laurenttreguier.vscode-simple-icons@1.16.0
 castrogusttavo.symbols@0.0.18
 ardonplay.vscode-jetbrains-icon-theme@0.0.4
 azat-io.eyecons@1.16.0
+tamasfe.even-better-toml@0.21.2

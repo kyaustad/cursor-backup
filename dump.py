@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import platform
+import re
 import sqlite3
 import sys
 from datetime import datetime, timezone
@@ -37,6 +38,15 @@ def cursor_paths() -> dict[str, Path]:
 def read_json(path: Path) -> Any:
     with path.open(encoding="utf-8") as handle:
         return json.load(handle)
+
+
+def read_jsonc(path: Path) -> Any:
+    """Parse JSON with VS Code/Cursor extensions (comments, trailing commas)."""
+    text = path.read_text(encoding="utf-8")
+    text = re.sub(r"/\*.*?\*/", "", text, flags=re.DOTALL)
+    text = re.sub(r"(^|[^:])//.*$", r"\1", text, flags=re.MULTILINE)
+    text = re.sub(r",(\s*[}\]])", r"\1", text)
+    return json.loads(text)
 
 
 def read_state_value(db_path: Path, key: str) -> Any | None:
@@ -125,7 +135,9 @@ def main() -> int:
     enabled = [ext for ext in installed if ext["id"] not in disabled_ids]
     disabled = [ext for ext in installed if ext["id"] in disabled_ids]
 
-    settings = read_json(paths["settings_json"]) if paths["settings_json"].exists() else {}
+    settings = (
+        read_jsonc(paths["settings_json"]) if paths["settings_json"].exists() else {}
+    )
     color_theme = theme_summary(read_state_value(paths["state_db"], "colorThemeData"))
     icon_theme = theme_summary(read_state_value(paths["state_db"], "iconThemeData"))
 

@@ -31,7 +31,8 @@
     "laurenttreguier.vscode-simple-icons",
     "castrogusttavo.symbols",
     "ardonplay.vscode-jetbrains-icon-theme",
-    "azat-io.eyecons"
+    "azat-io.eyecons",
+    "tamasfe.even-better-toml"
   ],
   "unwantedRecommendations": []
 }

@@ -5,13 +5,13 @@
     "extensionId": "cotion-theme-v2.cotion-theme"
   },
   "activeIconTheme": {
-    "label": "Eyecons",
-    "settingsId": "eyecons",
-    "extensionId": "azat-io.eyecons"
+    "label": "VSCode Icons",
+    "settingsId": "vscode-icons",
+    "extensionId": "vscode-icons-team.vscode-icons"
   },
   "settings": {
     "workbench.colorTheme": null,
-    "workbench.iconTheme": "eyecons",
+    "workbench.iconTheme": "vscode-icons",
     "workbench.preferredDarkColorTheme": "Cotion Theme",
     "workbench.preferredLightColorTheme": null,
     "window.autoDetectColorScheme": true

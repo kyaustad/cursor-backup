@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T01:26:21.103218+00:00",
+  "generatedAt": "2026-06-11T01:35:23.695107+00:00",
   "extensions": {
     "installed": [
       {
@@ -129,6 +129,10 @@
       {
         "id": "azat-io.eyecons",
         "version": "1.16.0"
+      },
+      {
+        "id": "tamasfe.even-better-toml",
+        "version": "0.21.2"
       }
     ],
     "enabled": [
@@ -259,6 +263,10 @@
       {
         "id": "azat-io.eyecons",
         "version": "1.16.0"
+      },
+      {
+        "id": "tamasfe.even-better-toml",
+        "version": "0.21.2"
       }
     ],
     "disabled": []
@@ -270,13 +278,13 @@
       "extensionId": "cotion-theme-v2.cotion-theme"
     },
     "activeIconTheme": {
-      "label": "Eyecons",
-      "settingsId": "eyecons",
-      "extensionId": "azat-io.eyecons"
+      "label": "VSCode Icons",
+      "settingsId": "vscode-icons",
+      "extensionId": "vscode-icons-team.vscode-icons"
     },
     "settings": {
       "workbench.colorTheme": null,
-      "workbench.iconTheme": "eyecons",
+      "workbench.iconTheme": "vscode-icons",
       "workbench.preferredDarkColorTheme": "Cotion Theme",
       "workbench.preferredLightColorTheme": null,
       "window.autoDetectColorScheme": true
