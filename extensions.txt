@@ -3,7 +3,6 @@ ms-python.python@2025.6.1
 anysphere.cursorpyright@1.0.12
 ms-python.debugpy@2026.6.0
 ms-python.vscode-python-envs@1.10.0
-golang.go@0.52.2
 esbenp.prettier-vscode@12.4.0
 redhat.vscode-yaml@1.23.0
 ms-azuretools.vscode-docker@2.0.0
@@ -24,10 +23,11 @@ anysphere.cpptools@2.0.2
 anysphere.csharp@1.0.1
 vadimcn.vscode-lldb@1.12.2
 vscode-icons-team.vscode-icons@12.18.0
-yusifaliyevpro.vscicons@1.1.9
 cotion-theme-v2.cotion-theme@0.0.2
 laurenttreguier.vscode-simple-icons@1.16.0
 castrogusttavo.symbols@0.0.18
 ardonplay.vscode-jetbrains-icon-theme@0.0.4
 azat-io.eyecons@1.16.0
 tamasfe.even-better-toml@0.21.2
+golang.go@0.54.0
+yusifaliyevpro.vscicons@1.1.10

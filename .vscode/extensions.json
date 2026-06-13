@@ -5,7 +5,6 @@
     "anysphere.cursorpyright",
     "ms-python.debugpy",
     "ms-python.vscode-python-envs",
-    "golang.go",
     "esbenp.prettier-vscode",
     "redhat.vscode-yaml",
     "ms-azuretools.vscode-docker",
@@ -26,13 +25,14 @@
     "anysphere.csharp",
     "vadimcn.vscode-lldb",
     "vscode-icons-team.vscode-icons",
-    "yusifaliyevpro.vscicons",
     "cotion-theme-v2.cotion-theme",
     "laurenttreguier.vscode-simple-icons",
     "castrogusttavo.symbols",
     "ardonplay.vscode-jetbrains-icon-theme",
     "azat-io.eyecons",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "golang.go",
+    "yusifaliyevpro.vscicons"
   ],
   "unwantedRecommendations": []
 }

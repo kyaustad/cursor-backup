@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T01:35:23.695107+00:00",
+  "generatedAt": "2026-06-13T17:19:31.565122+00:00",
   "extensions": {
     "installed": [
       {
@@ -21,10 +21,6 @@
       {
         "id": "ms-python.vscode-python-envs",
         "version": "1.10.0"
-      },
-      {
-        "id": "golang.go",
-        "version": "0.52.2"
       },
       {
         "id": "esbenp.prettier-vscode",
@@ -107,10 +103,6 @@
         "version": "12.18.0"
       },
       {
-        "id": "yusifaliyevpro.vscicons",
-        "version": "1.1.9"
-      },
-      {
         "id": "cotion-theme-v2.cotion-theme",
         "version": "0.0.2"
       },
@@ -133,6 +125,14 @@
       {
         "id": "tamasfe.even-better-toml",
         "version": "0.21.2"
+      },
+      {
+        "id": "golang.go",
+        "version": "0.54.0"
+      },
+      {
+        "id": "yusifaliyevpro.vscicons",
+        "version": "1.1.10"
       }
     ],
     "enabled": [
@@ -157,10 +157,6 @@
         "version": "1.10.0"
       },
       {
-        "id": "golang.go",
-        "version": "0.52.2"
-      },
-      {
         "id": "esbenp.prettier-vscode",
         "version": "12.4.0"
       },
@@ -241,10 +237,6 @@
         "version": "12.18.0"
       },
       {
-        "id": "yusifaliyevpro.vscicons",
-        "version": "1.1.9"
-      },
-      {
         "id": "cotion-theme-v2.cotion-theme",
         "version": "0.0.2"
       },
@@ -267,6 +259,14 @@
       {
         "id": "tamasfe.even-better-toml",
         "version": "0.21.2"
+      },
+      {
+        "id": "golang.go",
+        "version": "0.54.0"
+      },
+      {
+        "id": "yusifaliyevpro.vscicons",
+        "version": "1.1.10"
       }
     ],
     "disabled": []
